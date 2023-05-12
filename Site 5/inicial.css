@@ -1,0 +1,59 @@
+body {
+    background-image:url(https://media.istockphoto.com/id/1276742767/pt/vetorial/pink-paper-watercolor-texture-background-for-design-backdrop.jpg?s=170667a&w=0&k=20&c=1SChRnlype1HsWUCqTZXrA7Nkf2x_mPDUFZVmghr3bU=) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 0cm;
+    margin-right: 0cm;
+}
+
+h4{
+    font-family:'Lucida Sans Unicode';
+    font-style: italic;
+}
+h1{
+    font-family: 'Lucida Sans Unicode';
+    color: rgb(209, 37, 103);
+    text-align: center;
+    
+}
+h2{
+    font-family: sans-serif;
+}
+h3{
+    font-family: 'Cambria';
+    font-weight: 500;
+}
+
+.container img{
+    float: right;
+    margin-right: 40px;
+    margin-left: 10px;
+
+}
+.container h3{
+border: 10cm;
+margin-left: 40px;
+}
+.container h2{
+    border: 10cm;
+    margin-left: 40px;
+
+    }
+
+.foto{
+    border-radius: 5000px;
+    border-color: black;
+    background-color: black;
+    border-style: dashed;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+hr{
+    border-color: rgb(255, 138, 216);
+}
+
+img{
+    border-radius: 20px;
+}

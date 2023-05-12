@@ -1,0 +1,59 @@
+
+.inicial{
+    background-image: url(roxo.png);
+    background-size: cover;
+    margin-top: 2px;
+    margin-left: 105px;
+    margin-right: 105px;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgba(222, 175, 250, 0.664);
+
+}
+
+.foto{
+    border-radius: 5000px;
+    border-color: black;
+    background-color: black;
+    border-style: dashed;
+    text-align: center;
+    margin-left: 105px;
+}
+
+/* Aqui começa o site de casamento */
+
+.titulo{
+text-align: center;
+margin-top: 5px;
+}
+
+.fotos{
+    text-align: center;
+}
+
+.fundo{
+    background-image: url(roxo.png);
+    background-size: contain;
+    background-repeat: repeat;
+    margin-top: 2px;
+    margin-left: 105px;
+    margin-right: 105px;
+}
+
+.voltarEAvancar{
+    text-align: center;
+    margin-left: 380px;
+    font-size: 30px;
+    background-color: rgb(162, 0, 255);
+    color: black;
+    border-radius: 10px;
+    border-color: rgb(162, 0, 255);
+    border-style: solid;
+    border-width: 3px;
+    padding: 5px 10px
+}

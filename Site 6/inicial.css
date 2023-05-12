@@ -1,0 +1,111 @@
+body{
+    margin-left: 0cm;
+    margin-right: 0px;
+    margin-top: 0cm;
+    margin-bottom: 0px;
+}
+
+
+.parte1{
+    background-image: url(azul.png);
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+h1{
+    font-family: 'Antic Didone', serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size:42px;
+}
+
+h3{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-size: 23px;
+}
+
+.fotos{
+    text-align: center;
+}
+
+img{
+    border-radius: 20px;
+}
+
+hr{
+    font-size: 4px;
+}
+
+.fundo{
+    background-image: url(azul.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logos{
+    text-align: center;
+    
+}
+
+.colab{
+    color:black ;
+}
+
+.brasil{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.insta{
+    color: rgb(0, 0, 0);
+}
+
+
+h4{
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+
+}
+
+.titulofim{
+    color: rgb(212, 212, 255);
+}
+
+.logo2{
+    text-align: right;
+}
+
+
+.imagem2{
+    text-align: right;
+}
+
+.rodape{
+    background-color: blue;
+    margin-bottom: 0px;
+}
+
+.icones{
+text-align: center;
+display: inline-table;
+margin-right: 90px;
+margin-left: 175px;
+}
+
