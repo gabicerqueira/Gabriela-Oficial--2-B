@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    background-color: rgb(204, 204, 204);
+    background-color: rgb(230, 230, 230);
 }
 
 .cabecalho{
@@ -66,4 +66,8 @@ h2{
     border: solid;
     background-color: aliceblue;
     border-color: #000000;
+}
+
+.imagens{
+    text-align: center;
 }

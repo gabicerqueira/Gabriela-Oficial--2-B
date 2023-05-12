@@ -3,6 +3,7 @@
     margin-right: 0px;
     margin-bottom: 0px;
     background-image: url(BannerUp.png);
+    background-size: cover;
 }
 
 a{
@@ -42,7 +43,7 @@ hr{
     text-align: center;
     float: left;
     width: 420px;
-    margin-left: 120px;
+    margin-left: 180px;
     margin-right: 120px;
 }
 .RevM::after {
@@ -69,7 +70,7 @@ h2{
     text-align: center;
     float: left;
     width: 420px;
-    margin-left: 120px;
+    margin-left: 180px;
     margin-right: 120px;
 }
 
