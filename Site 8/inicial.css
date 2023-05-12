@@ -10,12 +10,13 @@ a{
     font-weight: bold;
     text-decoration: none;
     text-align: center;
-    margin-left: 185px;
+    margin-left: 220px;
     /* margin-right: 50px; */
     font-size: 25px;
     /* background-color: rgb(255, 229, 174); */
     color: rgb(255, 255, 255);
     border-radius: 10px;
+
 }
 
 .fundo{
@@ -122,12 +123,62 @@ color: rgb(75, 75, 75);
 .cabecalho{
     position: fixed;
     width: 1550px;
-    height: 170px;
+    height: 120px;
     border: 1px solid #000000;    
     background-color: #966d49;
     margin-left: 0px;
     margin-right: 0px;
-    box-shadow: 5px 5px rgba(255, 255, 255, 0.662), -1em 0 0.4em rgb(255, 255, 255);
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.505), -1em 0 0.4em rgb(255, 255, 255);
+    align-items: center;
+    display: flex;
 
 
+}
+
+.retangulo2{
+    width: 500px;
+    height: 380px;
+    border: 1px solid #ffffff;    
+    background-color: rgba(255, 255, 255, 0.83);
+    margin-left: 520px;
+}
+
+form{
+    margin-left: 30px;
+}
+
+button{
+    background-color: green;
+    font-size: 20px;
+}
+
+label{
+    font-size: 18px;
+}
+
+input{
+    font-size: 15px;
+}
+
+.contatos{
+    background-color: #7b6a5d;
+}
+
+.icones{
+    margin-left: 60px;
+
+
+}
+
+.fotos{
+    display: inline-flex;
+    margin-left: 300px;
+    margin-right: 60px;
+    align-items: center;
+}
+
+.EntreEmContato{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    float: left;
 }
