@@ -71,3 +71,38 @@ h2{
 .imagens{
     text-align: center;
 }
+
+.avaliacao{
+    background-color: rgb(8, 0, 116);
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.nomes{
+    text-align: center;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: white;
+}
+
+.comentarios{
+    color: rgb(206, 255, 253);
+    font-size: 40px;
+}
+
+.iconess{
+    display: inline-flex;
+    margin-left: 70px;
+    align-items: center;
+    text-align: left;
+
+}
+
+.logofinal{
+    text-align: right;
+
+}
+
