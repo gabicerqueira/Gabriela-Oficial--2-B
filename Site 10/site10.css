@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+}
+
+.cabecalho{
+    position: fixed;
+    width: 1550px;
+    height: 120px;   
+    background-color: #fff4b4;
+    margin-left: 0px;
+    margin-right: 0px;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.342), -1em 0 0.4em rgb(255, 255, 255);
+    align-items: center;
+    display: flex;
+}
+
+.logo{
+    margin-left: 30px;
+    align-items: center;
+    margin-top: 0px;
+    margin-right: 225px;
+}
+
+a{
+    font-family: 'Aleo', serif;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 75px;
+    font-size: 20px;
+    /* background-color: rgb(255, 229, 174); */
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.imagemlado{
+    left: 1400px;
+    position: inherit;
+}
+
+.fundo{
+    margin-left: 0px;
+    margin-right: 0px;
+    background-image: url(https://cpfabbri.com.br/wp-content/uploads/2020/10/shutterstock_727170871-scaled.jpg);
+    background-size: cover;
+}
+
+.retangulo{
+    width: 500px;
+    height: 380px;
+    border: 1px solid #000000;    
+    background-color: rgba(0, 0, 0, 0.877);
+    margin-left: 500px;
+}
+
+h1{
+    color: #ffe96d;
+    top: 40px;
+    text-align: center;
+    position: relative;
+    font-size: 45px;
+}
